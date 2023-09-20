@@ -1,0 +1,40 @@
+.Heading-1{
+    text-align: center;   
+}
+
+
+.Ip-Container-1{
+    display: flex;
+    padding-left: 40%;
+}
+
+.Ip-Container-1 .year-ip{
+    margin-left: 100px;
+}
+
+.g-dropdown{
+    width:100px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.Container-1{
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 20px;
+    margin-top: 40px;
+}
+.Table-headings{
+    margin-top: 20px;
+    border-radius: 5px;
+    padding-left: 20px;
+    display: flex;
+    
+    font-weight: bold;
+}
+.Table-headings p{
+    width: 70px;
+    padding-left: 40px;
+}
+

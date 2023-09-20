@@ -1,0 +1,13 @@
+.text-updater-node{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    border: solid;
+    background-color: #fff;
+}
+
+
+.text-updater-node img{
+    width: 60px;
+    height: 60px;
+}
