@@ -1,3 +1,9 @@
+# About
+This application shows you a ipl insights of an ipl year for last four years.
+It is done by "REACT JS" and "REACTFLOW".
+
+
+<hr/>
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
