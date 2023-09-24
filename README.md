@@ -3,6 +3,10 @@ This application shows you a ipl insights of an ipl year for last four years.
 It is done by "REACT JS" and "REACTFLOW".
 
 
+
+### App demo
+https://ipl-insights-reactflow-db.netlify.app/
+
 <hr/>
 # React + Vite
 
